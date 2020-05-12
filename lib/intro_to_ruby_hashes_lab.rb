@@ -3,7 +3,12 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_hash = {
+    :name => "Andy Aguilar"
+    :hobby => "Running"
+    :age => 33
+    :hometown => "Shreveport"
+  }
 end
 
 def pioneer
