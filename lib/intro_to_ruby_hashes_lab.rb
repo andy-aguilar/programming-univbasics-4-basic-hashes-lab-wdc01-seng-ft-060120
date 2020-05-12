@@ -4,9 +4,9 @@ end
 
 def my_hash
   my_hash = {
-    :name => "Andy Aguilar"
-    :hobby => "Running"
-    :age => 33
+    :name => "Andy Aguilar",
+    :hobby => "Running",
+    :age => 33,
     :hometown => "Shreveport"
   }
 end
